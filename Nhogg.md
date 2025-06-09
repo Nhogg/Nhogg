@@ -1,5 +1,6 @@
 # About Me
-Welcome to my profile! My name is Nathan. I am a junior at Loyola Chicago majoring in CS and minoring in statistics, and I enjoy using code to solve hard problems, and making fun projects.
+Welcome to my profile! My name is Nathan. I am a junior at Loyola Chicago majoring in CS and minoring in statistics.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhogg&layout=compact&theme=solarized-dark&hide=html,javascript,typescript,css)
 
 ---
