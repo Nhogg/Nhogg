@@ -1,5 +1,6 @@
 # About Me
 Welcome to my profile! My name is Nathan. I am a junior at Loyola Chicago majoring in CS and minoring in statistics.
+I am currently taking a semester abroad at Heriot-Watt University in Edinburgh, Scotland. Here, I am studying functional programming with OCaml, web programming, and networking fundamentals.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhogg&layout=compact&theme=solarized-dark&hide=html,javascript,typescript,css)
 
