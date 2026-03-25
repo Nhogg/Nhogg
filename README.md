@@ -1,6 +1,6 @@
 # About Me
 Welcome to my profile! My name is Nathan. I am a junior at Loyola Chicago majoring in CS and minoring in statistics.
-My current research centers around novel methods for image tracking.
+My current research centers around novel methods for image tracking and robotic perception.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhogg&layout=compact&theme=solarized-dark&hide=html,javascript,typescript,css)
 
