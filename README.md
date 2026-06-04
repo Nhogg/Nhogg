@@ -21,6 +21,10 @@ I am an undergraduate researcher focused on building and optimizing machine lear
 
 ### Tools & Environment
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Arch_Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/pixi-4169E1?style=flat-square&logo=pixi&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=white)](https://github.com/yourusername "i use arch btw")
 
