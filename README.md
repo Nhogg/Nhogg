@@ -1,19 +1,26 @@
 # About Me
-My name is Nathan. I am a senior at Loyola Chicago majoring in CS and minoring in statistics.
-My current research centers around novel methods for image tracking and robotic perception.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhogg&layout=compact&theme=solarized-dark&hide=html,javascript,typescript,css)
-
+I am an undergraduate researcher focused on building and optimizing machine learning pipelines for computer vision and robotic perception.
 ---
-# Tech
+# Current Focus
+- **High-Performance Computing:** Scaling novel LLM inference optimizations and distributed training pipelines.
+- **Differentiable Rendering:** Architecting hardware-accelerated pipelines and spatial alignment tracking.
+- **Systems Engineering:** Developing custom infrastructure for real-time robotic perception and cross-embodiment transformers.
+---
+# Technical Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
-</div>
+### Machine Learning & Simulation
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/JAX-663399?style=flat-square&logo=JAX&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+
+### Low-Level & Systems
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=blue)
+![](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Tools & Environment
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+
